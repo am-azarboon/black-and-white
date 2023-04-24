@@ -1,4 +1,4 @@
-# Black_and_White
+# black_and_white
 A game by Python and 'Pygame' library
 
 <br>
