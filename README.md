@@ -22,24 +22,24 @@ pip install -r requirements.txt
   <tr>
     <td align="center">
         <a href="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-cover.png?raw=true">
-          <img src="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-cover.png?raw=true" alt="home page">
+          <img src="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-cover.png?raw=true" alt="Cover">
         </a>
         <br />
-        <p>home page</p>
+        <p>Cover</p>
       </td>
       <td align="center">
         <a href="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-game.png?raw=true">
-          <img src="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-game.png?raw=true" alt="products">
+          <img src="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-game.png?raw=true" alt="Game">
         </a>
         <br />
-        <p>products</p>
+        <p>Game</p>
       </td>
       <td align="center">
         <a href="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-gameover.png?raw=true">
-          <img src="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-gameover.png?raw=true" alt="account">
+          <img src="https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-gameover.png?raw=true" alt="Game Over">
         </a>
         <br />
-        <p>account</p>
+        <p>Game Over</p>
       </td>
     </tr>
 </table>
