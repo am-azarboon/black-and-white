@@ -3,6 +3,7 @@ import random
 from time import sleep
 import sys
 
+
 #Load all pygame modules
 pygame.init()
 
