@@ -15,3 +15,9 @@ install requirements :
 ```bash
 pip install -r requirements.txt
 ```
+
+## Images
+
+![alt cover](https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-cover.png?raw=true)
+![alt game-on](https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-game.png?raw=true)
+![alt game-over](https://github.com/am-azarboon/black-and-white/blob/main/assets/imgs/Screenshot-gameover.png?raw=true)
